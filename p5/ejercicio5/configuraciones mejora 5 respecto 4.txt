@@ -1,0 +1,35 @@
+
+
+;definimos donde se encuentran los objetos
+        (atObjeto oro p3)
+        (atObjeto algoritmo p7)
+        (atObjeto oscar p1)
+        (atObjeto manzana p1)
+        (atObjeto rosa p4)
+        (atObjeto bikini p3)
+        (atObjeto zapatilla p1)
+        
+        ;definimos donde se encuentran los personajes
+        (atPersonaje bruja p4)
+        (atPersonaje profesor p7)
+        (atPersonaje leonardo p8)
+        (atPersonaje princesa p2)
+        (atPersonaje principe p2)
+
+
+
+;definimos donde se encuentran los objetos
+        (atObjeto oro p3)
+        (atObjeto algoritmo p7)
+        (atObjeto oscar p1)
+        (atObjeto manzana p2)
+        (atObjeto rosa p4)
+        (atObjeto bikini p3)
+        (atObjeto zapatilla p1)
+        
+        ;definimos donde se encuentran los personajes
+        (atPersonaje bruja p8)
+        (atPersonaje profesor p7)
+        (atPersonaje leonardo p4)
+        (atPersonaje princesa p4)
+        (atPersonaje principe p2)

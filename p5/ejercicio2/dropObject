@@ -1,0 +1,18 @@
+;soltar objeto
+  (:action dropObject
+	     :parameters (?j - jugador ?o - objeto ?z - zona)
+	     :precondition 
+	     (
+	        and
+	        (not(puedeCogerObjeto))
+	        (atJugador ?j ?z)
+	        (hasThingJugador ?j ?o)
+	     )
+	     :effect 
+	     (
+	        and
+	        (puedeCogerObjeto)
+	        (not(hasThingJugador ?j ?o))
+	        (atObjeto ?o ?z)
+	     )
+  )

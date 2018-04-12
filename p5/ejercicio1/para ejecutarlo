@@ -1,0 +1,1 @@
+./ff -p ./ejercicio1/ -o Ej1dominio.pddl -f Ej1problema.pddl
